@@ -41,3 +41,4 @@
    input type="submit"
    
 5. take a screenshot of the element panel
+   - [element panel](element-panel.png)
