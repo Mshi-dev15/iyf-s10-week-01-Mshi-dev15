@@ -1,20 +1,20 @@
 ## Website 1 
 1. What HTML tags are used on the page
-  - <html></html>
-  - <head></head>
-  - <title></title>
+  - <html>
+  - <head>
+  - <title>
   - <meta name="viewport" content="width=device-width, initial-scale=1">
-  - <style></style>
-  - <body></body>
-  - <div></div>
-  - <h1></h1>
-  - <p></p>
+  - <style>
+  - <body>
+  - <div>
+  - <h1>
+  - <p>
   - <a>
   
-3. what is the page title
+2. what is the page title
    -Example Domain
    
-5. How many headings are there
+3. How many headings are there
    - 1 heading
 
 ## Website 2
@@ -22,7 +22,7 @@
    - <nav>  inside <header>
 3. How is the search bar stractured?
    - <div>
-   - <form></form>
+   - <form>
    - <input type="search">
 5. What happens when you hover over links
    - when you hover over links the colour changes and/ or underline appears due to the css: hover style
@@ -39,5 +39,5 @@
    - <form> 
    <input type="text" name"q">
    <input type="submit"
-   </form>
+   
 5. take a screenshot of the element panel
