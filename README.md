@@ -40,8 +40,8 @@ This project was built as part of Web Foundations training to practice core HTML
 - Organizing screenshots and files in a clean folder structure for GitHub  
 
 ## Screenshorts
-[VS Code Extension](VSCode-extension.png)
-[element panel](element-panel.png)
+- [VS Code Extension](VSCode-extension.png)
+- [element panel](element-panel.png)
 
 ## Live Demo
 https://mshi-dev15.github.io/iyf-s10-week-01-Mshi-dev15/
