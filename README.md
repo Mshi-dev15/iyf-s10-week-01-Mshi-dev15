@@ -45,3 +45,23 @@ This project was built as part of Web Foundations training to practice core HTML
 
 ## Live Demo
 https://mshi-dev15.github.io/iyf-s10-week-01-Mshi-dev15/
+
+
+# My Portfolio Profile
+
+A personal portfolio page to showcase my work, skills, and contact information.  
+This project demonstrates responsive design, clean navigation, and structured content for both desktop and mobile users.
+
+## Features
+- **Responsive Navigation:** Adapts to different screen sizes, with hover effects.
+- **Profile Section:** Includes a profile image, name, and brief bio.
+- **Main Sections:** About me, projects, and contact information.
+- **Footer:** Cleanly styled with essential info and links.
+
+## Technologies Used
+- index.html — homepage
+- project.html — main content
+- css/styles.css — styling
+
+## Getting Started
+Open `index.html` in a browser. Edit `css/styles.css` to modify styles.
