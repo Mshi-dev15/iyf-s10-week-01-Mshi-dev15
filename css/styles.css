@@ -143,7 +143,12 @@ footer {
 /* =========================
    RESPONSIVE DESIGN
 ========================= */
-@media (max-width: 600px) {
+@media (max-width: 600px){
+  section img {
+    height: 150px;
+  }
+}
+ {
     nav {
         flex-direction: column;
         gap: 10px;
@@ -184,7 +189,7 @@ section.project-card {
 
 section.project-card img {
     width: 100%;
-    height: auto;
+    height: 200px;
     border-radius: 8px;
     object-fit: cover;
 }
@@ -192,7 +197,7 @@ section.project-card img {
 /* Project images */
 section img {
     max-width: 100%;
-    height: auto;
+    height: 200px;
     border-radius: 8px;
     object-fit: cover;
 }
