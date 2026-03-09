@@ -188,4 +188,12 @@ section.project-card img {
     border-radius: 8px;
     object-fit: cover;
 }
+
+/* Project images */
+section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+}
 }
