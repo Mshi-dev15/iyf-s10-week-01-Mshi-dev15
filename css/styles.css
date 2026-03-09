@@ -167,4 +167,25 @@ footer {
     #hero h1 {
         font-size: 28px;
     }
+
+    /* Projects grid */
+main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+section.project-card {
+    flex: 1 1 300px; /* grow/shrink, min width */
+    max-width: 350px; /* prevents too big */
+    text-align: center;
+}
+
+section.project-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+}
 }
