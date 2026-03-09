@@ -6,7 +6,7 @@
 - **Date:** February 23, 2026
 
 ## Project Description
-This project was built as part of Web Foundations training to practice core HTML concepts including semantic structure, multi-page navigation, accessibility basics, and GitHub workflow. The project includes multiple HTML pages (Home, About, Projects, Contact) created to strengthen understanding of page structure and layout.
+This project is a portfolio page created as part of Web Foundations training to practice core HTML concepts including semantic structure, multi-page navigation, accessibility basics, and GitHub workflow. The project includes multiple HTML pages (Home, About, Projects, Contact) created to strengthen understanding of page structure and layout.
 
 ## Technologies Used
 - HTML5
