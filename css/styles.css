@@ -175,30 +175,31 @@ footer {
 
     /* Projects grid */
 main {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
     gap: 20px;
-    justify-content: center;
+    padding: 20px;
 }
 
 section.project-card {
-    flex: 1 1 300px; /* grow/shrink, min width */
-    max-width: 350px; /* prevents too big */
-    text-align: center;
+background: white;
+  border-radius: 16px;       /* Soft, modern corners */
+  overflow: hidden;         /* Clips the image to the card's corners */
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08); /* Subtle shadow for depth */
+  transition: transform 0.3s ease; /* Smooth lift on hover */
+}
 }
 
 section.project-card img {
     width: 100%;
     height: 200px;
-    border-radius: 8px;
     object-fit: cover;
 }
 
 /* Project images */
 section img {
-    max-width: 100%;
+    width: 100%;
     height: 200px;
-    border-radius: 8px;
     object-fit: cover;
 }
 }
